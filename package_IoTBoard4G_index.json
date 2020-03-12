@@ -16,8 +16,8 @@
                     "category": "IoT",
                     "url": "https://github.com/mj-rios/IotBoard4G/raw/master/IoTBoard4G.zip",
                     "archiveFileName": "IoTBoard4G.zip",
-                    "checksum": "SHA-256:72f29f339228701c0218b8a9e41e40d7e58762b925053735967adcd4effd5409",
-                    "size": "17338222",
+                    "checksum": "SHA-256:4ceed4d0669cd57804b7097ac32cd9ea51d8a1705fbba470b8681e42665f6ed6",
+                    "size": "2436655",
                     "boards": [
                         {
                             "name": "IoT Board 4G"
