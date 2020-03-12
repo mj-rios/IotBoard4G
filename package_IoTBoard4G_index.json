@@ -14,7 +14,7 @@
                     "architecture": "samd",
                     "version": "1.0.0",
                     "category": "IoT",
-                    "url": "https://github.com/mj-rios/Repo_IoT/raw/master/IoTBoard.zip",
+                    "url": "https://raw.githubusercontent.com/mj-rios/IotBoard4G/master/package_IoTBoard4G_index.json",
                     "archiveFileName": "IoTBoard4G.zip",
                     "checksum": "SHA-256:72f29f339228701c0218b8a9e41e40d7e58762b925053735967adcd4effd5409",
                     "size": "17338222",
